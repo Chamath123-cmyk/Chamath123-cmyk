@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndndueXJ6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif)" width="200" alt="Hacker Animation" />
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="200" alt="Hacker Animation" />
 </p>
 
 <h1 align="center">
